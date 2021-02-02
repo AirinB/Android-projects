@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">UV level</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="skin_color">
+        <item>Fair</item>
+        <item>White</item>
+        <item>Tanned</item>
+        <item>Brown</item>
+        <item>Dark brown</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="hair_color">
+        <item>Blond</item>
+        <item>Red</item>
+        <item>Dark Blond</item>
+        <item>Brown</item>
+        <item>Dark brown</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="eye_color">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Brown</item>
+        <item>Dark brown</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Man</item>
+    </string-array>
+    <string name="risk_type12">People with Fitzpatrick skin type 1 or 2 often have fair skin, freckles, and light hair, which the American Cancer Society (ACS) list as risk factors for melanoma skin cancer.
+There is a high risk of sun damage, which can lead to:
+burning
+signs of aging
+skin cancer
+People with very fair skin should take additional precautions to protect their skin.
+For example, they should use a broad-spectrum sunscreen with an SPF of at least 30. SPF 70 and 100 are also available. A broad-spectrum sunscreen protects from both UVA and UVB rays.
+It is also best for people with this skin type to avoid sun exposure as much as possible and wear protective clothing that reflects the sun’s rays.</string>
+    <string name="risk_type34">If a person has skin type 3 or 4, their skin can burn, but it will also tan. The risk of skin cancer due to sun exposure is lower than it is for those with type 1 and 2 skin, but there is still a risk.
+Although skin types vary widely among people of a similar origin, those with types 3 and 4 often include people of Mediterranean, Southern European, Latino, and Asian ancestry.
+For example, skin cancer accounts for 2–4% of all cancers in people of Asian origin and 4–5% of all cancers in people of Hispanic origin.
+The authors of a 2012 study expressed concern about the risk of skin cancer among Hispanic people in the U.S. They called for “culturally relevant, tailored interventions” to raise awareness of the need for sun protection and preventive measures.
+Among Hispanic populations in the U.S., skin cancer affects just over 4 people in every 100,000 each year. A Hispanic person is more likely to receive a diagnosis at a younger age, at a later stage, and with a lower chance of survival compared with a white person.
+The ACS also express concern, noting that skin cancer rates have risen by nearly 20% among Hispanic people in the U.S. in the past 20 years.</string>
+    <string name="risk_type56">People with skin types 5 and 6 also have a risk of developing skin cancer, though the risk is lower than it is for people with skin types 1 or 2. Even if the skin does not burn, sun damage can lead to cancer and early signs of skin aging.
+Skin cancer accounts for just 1–2% of all cancers in Black people. </string>
+    <string name="key_wheather">d44c3246b5694f58d34cc82e8a4e93ee</string>
+
+</resources>

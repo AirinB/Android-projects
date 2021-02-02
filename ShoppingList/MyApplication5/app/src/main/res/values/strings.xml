@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string-array name="categories">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Dairy</item>
+        <item>Medicine</item>
+        <item>Drinks</item>
+        <item>Personal Care</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="name">Moraru Daniela Andreea</string>
+    <string name="neptun">ELYJ9R</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etTodoText"
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter todo here" />
+
+    <EditText
+        android:id="@+id/etDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter description here" />
+
+    <EditText
+        android:id="@+id/etPrice"
+        android:layout_width="51dp"
+        android:layout_height="wrap_content"
+        android:hint="Price" />
+
+    <CheckBox
+        android:id="@+id/cbTodoDone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"/>
+
+    <Spinner
+        android:id="@+id/spinnerCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
