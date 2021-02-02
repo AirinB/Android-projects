@@ -11,9 +11,9 @@ development:
 This app helps to keep track of the sun activity and it displays the safe time for your 
 skin to be in the sun.
 
-![UV screen 1!](img/uv1.png "UV")
-![UV screen 2!](img/uv2.png "UV")
-![UV screen 3!](img/uv3.png "UV")
+![UV screen 1!](img/uv1.png "UV").     
+![UV screen 2!](img/uv2.png "UV").   
+![UV screen 3!](img/uv3.png "UV").   
 
 
 ## Shopping list app
